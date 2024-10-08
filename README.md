@@ -1,7 +1,3 @@
-Aqui está o README que você pode usar no GitHub para explicar o **deploy em produção na AWS** com base nas suas especificações:
-
----
-
 # Deploy em Produção - AWS
 
 Este guia fornece um passo a passo para fazer o deploy do seu sistema de estacionamento em produção na AWS, usando uma **instância EC2** com **Debian 12** e **Docker Compose**. Além disso, este guia presume que você já possui uma chave SSH configurada em sua máquina local.
